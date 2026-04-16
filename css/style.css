@@ -63,7 +63,7 @@ p { margin: 0 0 1em; color: var(--muted); }
   font-size: 1.35rem; font-weight: 600;
   color: var(--text);
 }
-.brand img { width: 32px; height: 32px; }
+.brand img { height: 40px; width: auto; }
 .brand:hover { text-decoration: none; }
 
 .nav-links {
